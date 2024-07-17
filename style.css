@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0; }
+    
+body {
+    background-image: url('fondo.png');
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed; }
+    
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px 5%;
+    width: 100%;
+    background-color: white; }
+    
+header > * {
+    display: inline-block;
+    width: 450px ; }
+
+h1 {
+    margin-bottom: 12px; }
+    
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px; }
+    
+.banner {
+    padding: 20% 5%;
+    color: white;
+    font-size: 30px; }
+    
+.banner img {
+    display: inline-block;
+    width: 80%;
+    margin: 0 auto;
+    x-align: center; }
+
+#hulk {
+    background-image: url('fonde.png') ;
+    padding: 10px 5% ;
+    text-align: center; 
+    margin-bottom: 15px ; }
+    
+#hulk > * {
+    font-size: 30px ;
+    vertical-align: middle;
+    display: inline-block;
+    width: 450px ; }
+    
+#ironman {
+    background-image: url('fondu.png') ;
+    padding: 10px 5% ;
+    text-align: center; 
+    margin-bottom: 15px ; }
+    
+#ironman > * {
+    font-size: 30px ;
+    vertical-align: middle;
+    display: inline-block;
+    width: 450px ; }
+    
+#info {
+    background-image: url('fondi.png') ;
+    padding: 10px 0px;
+    font-size: 25px ;
+    text-align:center ;  }    
+    
+    
+    
+    
+    
+
+
